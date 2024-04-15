@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ansumanparamguru
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning DSA
-- 📫 How to reach me ansumanparamguru@gmail.com
+- 📫 You can reach me through ansumanparamguru@gmail.com
 
 <!---
 ansumanparamguru/ansumanparamguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
