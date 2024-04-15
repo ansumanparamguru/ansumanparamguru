@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ansumanparamguru
-- 👀 I’m interested in Data Analitics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me ansumanparamguru@gmail.com
 
