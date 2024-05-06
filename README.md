@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning DSA
 - 🔭 I have good knowledge of Python,SQL,HTML
-- 📚 Certified - AWS cloud Practitioner and Swayam NPTEL Certification for Cyber Security Tools Techniques and Counter Measures
+- 📚 Certified - AWS cloud Practitioner and Swayam NPTEL Certification for Cyber Security Tools Techniques and Counter Measures and Azure Fundamentals
 - 📫 You can reach me through ansumanparamguru@gmail.com
 
 <!---
