@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ansumanparamguru
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Data Analytics 
 - 🔭 I have good knowledge of Python,SQL,HTML
-- 📚 Certified - AWS cloud Practitioner
-                 Swayam NPTEL Certification for Cyber Security Tools Techniques and Counter Measures and Azure Fundamentals
-                 Microsoft Azure Fundamentals-Describe core concepts
+- 📚 AWS Cloud Practitioner Certified
+- 🌱 Swayam NPTEL Certification for Cyber Security Tools Techniques and Counter Measures Certified
+- 📚Microsoft Azure Fundamentals: Describe Core Concepts Certified
 - 📫 You can reach me through ansumanparamguru@gmail.com
 
 <!---
